@@ -1,0 +1,1 @@
+get = Npm.require('mout/object/get.js');
