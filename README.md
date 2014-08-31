@@ -1,6 +1,6 @@
 # meteor-mout-get
 
-This is a convenience package that exposes the `get() function in [mout.js](http://moutjs.com).
+This is a convenience package that exposes the `get()` function in [mout.js](http://moutjs.com).
 
 ## Installation
 
