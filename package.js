@@ -1,5 +1,5 @@
 Package.describe({
-   name: 'mout-get',
+   name: 'chhib:mout-get',
    summary: "mout/object/get.js packaged for Meteor",
    git: 'https://github.com/chhib/meteor-mout-get.git',
    version: "0.0.1"
